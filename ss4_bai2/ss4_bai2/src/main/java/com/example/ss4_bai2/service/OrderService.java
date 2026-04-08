@@ -1,6 +1,6 @@
 package com.example.ss4_bai2.service;
 
-import com.restaurant.bai2.repository.OrderRepository;
+import com.example.ss4_bai2.repository.OrderRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
